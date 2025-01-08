@@ -1,4 +1,4 @@
-# 100 Days of Python Challenge
+# 100 Days of AIML Challenge
 
 Welcome to my **100 Days of Python Challenge**! This repository contains my journey of refreshing and expanding my Python skills, covering both foundational and advanced concepts. Throughout this challenge, I aim to practice Python coding every day, complete small projects, and upload them to GitHub. Each day will focus on improving my knowledge and applying what I learn in practical scenarios.
 

@@ -80,4 +80,3 @@ The **100 Days of Python Challenge** is not just about completing exercises but 
 ---
 
 Thank you for visiting my repository, and I hope my journey helps inspire your own learning. If you have any feedback, questions, or suggestions, please feel free to reach out!
-```
